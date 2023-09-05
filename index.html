@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task</title>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="public/styles/style.css">
+</head>
+<body>
+    <div class="app-container" id="taskList">
+        <h1 class="app-header">TO DO LIST</h1>
+        <div class="add-task">
+          <input type="text" autocomplete="off" placeholder="Add New Task" v-model="tasks.name" @keyup.enter="newItem" id="task-input">
+          <input type="submit" value="" id="submit-task" @click="newItem" title="Add Task">
+        </div>
+          <ul id="task-list"> 
+           <!-- <li class="task-list-item" v-for="task in tasks">
+            <label class="task-list-item-label">
+              <input type="checkbox">
+              <span></span>
+            </label>
+            <span @click="delItem(task)" class="delete-btn" title="Delete Task"></span>
+          </li> -->
+        </ul>   
+        <script src="dist/client.js" type="module"></script>
+      </div>
+</body>
+</html>
