@@ -4,15 +4,16 @@
         <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a 
+        <a href="#- instalacaoeconfuguracao">Instalação e Configuração</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="#-referencias">Referências</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="#-referencias">
+        
+        
 </p>
 
 <br>
 
 <p align="center">
-    <img src="public/images/task.png" alt="Piano com Typescript" width="100%">
+    <img src="public/images/task.png" alt="Task com Typescript" width="100%">
 </p>
 
 <br>
@@ -20,6 +21,7 @@
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
+
     - HTML, CSS e SCSS
     - Sass
     - Typescript
@@ -36,7 +38,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ### Passo 2: Entrar no projeto
     cd task
 
-### Passo 3: Iniciar projeto
+### Passo 3: Instalar dependências
+    npm i
+
+### Passo 4: Iniciar projeto
     npm run server
 
 ### Outros Comandos
@@ -45,18 +50,20 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <em style="font-family: 'Helvetica', sans-serif, color: #38a138;">Este comando é usado para compilar o código TypeScript do cliente em código JavaScript</em> 
 
+    npm run build:server
+
+<em style="font-family: 'Helvetica', sans-serif, color: #38a138;">Este comando é usado para compilar o código TypeScript da criação do servidor em código JavaScript</em> 
     
 ## 💻 Projeto
 
-O Piano é um projeto que simula um teclado de forma digital.
+O Task é um projeto que cria um lista de tarefas.
 
 ## 📩 Layout
-Você pode visualizar o layout do projeto através [DESSE LINK](https://task-fabio-farias.netlify.app/).
+Você pode visualizar o projeto através [DESSE LINK](https://task-fabio-farias.netlify.app/).
 
 
 ## 📚 Referências
 
 Referências do projeto.
 
-[@Eliteware](https://codepen.io/Eliteware/pen/wDHIC)    
-[@gabrielcarol_](https://codepen.io/gabrielcarol/pen/rGeEbY)
+[@aybukeceylan](https://codepen.io/aybukeceylan/pen/abmLNag)    
