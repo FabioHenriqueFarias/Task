@@ -4,8 +4,8 @@
         <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="#- instalacaoeconfuguracao">Instalação e Configuração</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="#-referencias">Referências</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="#instalacao-e-configuracao">Instalação e Configuração</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="#referencias">Referências</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         
         
 </p>
@@ -30,6 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     - nodemon
 
 ## ⚙️ Instalação e Configuração
+<a id="instalacao-e-configuracao"></a>
 
 ### Passo 1: Clonar o repositório
 
@@ -66,4 +67,4 @@ Você pode visualizar o projeto através [DESSE LINK](https://task-fabio-farias.
 
 Referências do projeto.
 
-[@aybukeceylan](https://codepen.io/aybukeceylan/pen/abmLNag)    
+[@aybukeceylan](https://codepen.io/aybukeceylan/pen/abmLNag){:target="_blank"}
