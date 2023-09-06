@@ -60,7 +60,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Task é um projeto que cria um lista de tarefas.
 
 ## 📩 Layout
-Você pode visualizar o projeto através [DESSE LINK](https://task-fabio-farias.netlify.app/).
+Você pode visualizar o projeto através <a href="https://task-fabio-farias.netlify.app/" target="_blank">DESSE LINK</a>
 
 
 ## 📚 Referências
@@ -68,4 +68,5 @@ Você pode visualizar o projeto através [DESSE LINK](https://task-fabio-farias.
 
 Referências do projeto.
 
-[@aybukeceylan](https://codepen.io/aybukeceylan/pen/abmLNag){:target="_blank"}
+<a href="https://codepen.io/aybukeceylan/pen/abmLNag" target="_blank">@aybukeceylan</a>
+
